@@ -1,0 +1,11 @@
+kicad_care_package/
+*.DS_Store
+
+# KiCad 临时和备份文件
+*.kicad_sch.lck
+*~
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# 编辑器历史 / 本地历史
+.history/
